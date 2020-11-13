@@ -1,4 +1,4 @@
-# Stocks Data Analysis
+# Stocks Data Visualization
 This project contains visualizations that were built using Tableau Desktop (https://www.tableau.com/products/desktop) for comparing financial performance of different companies and industries. Based on Stephen Few and Edward Tufte guidelines, pros and cons of each visualization are discussed in description files.
 
 
